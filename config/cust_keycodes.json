@@ -134,5 +134,22 @@
 		},
 		"footnotes": {},
 		"type": "UD"
+	},
+	{
+		"names": [
+			"RCMD(BACKSLASH)"
+		],
+		"description": "RCMD(BACKSLASH)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
 	}
 ]
